@@ -23,8 +23,6 @@
 }
 
 
-
-
 .site-name{
     display: flex;
     gap: 10rem;
@@ -205,22 +203,27 @@ p.sp{
 
 .fa-whatsapp{
     height: 1.5rem;
+    color: brown;
 }
 
 .fa-facebook{
     height: 1.5rem;
+    color: brown;
 }
 
 .fa-twitter{
     height: 1.5rem;
+    color: brown;
 }
 
 .fa-instagram{
     height: 1.5rem;
+    color: brown;
 }
 
 .fa-linkedin{
     height: 1.5rem;
+    color: brown;
 }
 
 img{
